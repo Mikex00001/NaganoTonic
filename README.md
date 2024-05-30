@@ -2,7 +2,7 @@
 Ao meu projeto, este é um site de paginas de vendas de um produto.
 
 
-![ezgif com-gif-maker](https://s4.ezgif.com/tmp/ezgif-4-db4d489e8b.gif))
+![ezgif com-gif-maker](https://s4.ezgif.com/tmp/ezgif-4-db4d489e8b.gif)
 # Link Para Visualização do Site:
 https://naganotonic.shop/
 
